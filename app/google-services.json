@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "438262232290",
+    "firebase_url": "https://panther-fashion.firebaseio.com",
+    "project_id": "panther-fashion",
+    "storage_bucket": "panther-fashion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438262232290:android:9263d3b1b2596f04",
+        "android_client_info": {
+          "package_name": "in.pantherfashion.liveharshit.pantherfashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438262232290-d8sgmr17n0r8301ghm4slffcncbcabvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr029Sv6FHLytZcUV4BvFRwaMhoEp7SoY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
